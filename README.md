@@ -1,2 +1,3 @@
 # Netlogo_Projetos
-Utilizarei esse repositório para futuros projetos em netlogo e etc.
+Utilizarei esse repositório para futuros projetos e pesquisas com a linguagem do netlogo.
+Qualquer suporte é bem vindo!!
